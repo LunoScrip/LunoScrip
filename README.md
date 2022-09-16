@@ -9,10 +9,15 @@
 
 ### 👩🏽‍💻 &nbsp; Working with
 
- <a href="https://www.w3schools.com/html/default.asp" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="40px" height="40px"></a>
- <a href="https://www.w3schools.com/css/default.asp" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="40px" height="40px"></a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg"  alt="JavaScript" width="40px" height="40px"></a>&nbsp;
-<a href="https://sass-lang.com/" title="Sass"><img height="32" src="https://github.com/tomchen/stack-icons/blob/master/logos/sass.svg" alt="Sass"/></a>&nbsp;
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a href="https://sass-lang.com/" title="Sass"><img height="32" src="https://github.com/tomchen/stack-icons/blob/master/logos/sass.svg" alt="Sass"/></a>&nbsp;
+</div>
 
 ### 🔍&nbsp; Find me
 
