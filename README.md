@@ -6,6 +6,14 @@
 - 📍Leopoldina, Mg, Brazil.
 - 💻Development Front-End RbmWeb.
 
+### 📑 Completed courses
+
+GIT: https://github.com/LunoScrip/Certificados_Jornada_alura
+
+
+- "*Alura*" JavaScript: types, variables and functions
+- "*Alura*" Http: Understanding the web behind the scenes
+- "*Alura*" PHP: Composer dependencies, autoloading and publishing
 
 ### 👩🏽‍💻 &nbsp; Working with
 
