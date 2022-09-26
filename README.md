@@ -10,10 +10,14 @@
 
 GIT: https://github.com/LunoScrip/Certificados_Jornada_alura
 
-
-- "*Alura*" JavaScript: types, variables and functions
-- "*Alura*" Http: Understanding the web behind the scenes
-- "*Alura*" PHP: Composer dependencies, autoloading and publishing
+- "*Alura* HTML5 and CSS3 part 1: Create a webpage
+- "*Alura* HTML5 and CSS3 part 2: Positioning, Lists and Navigation
+- "*Alura* HTML5 and CSS3 part 3: Working with forms and tables
+- "*Alura* JavaScript: Supported Types, Variables, and Functions
+- "*Alura* Php: Composer Dependencies, Autoload and Voucher Publishing
+- "*Alura* Amazon Lightsail: Making the Cloud Simple
+- "*Alura* Networks part 1: concepts and practice
+- "*Alura* HTTP: Understanding the Web Behind the Scenes
 
 ### 👩🏽‍💻 &nbsp; Working with
 
