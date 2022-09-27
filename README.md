@@ -18,7 +18,7 @@ GIT: https://github.com/LunoScrip/Certificados_Jornada_alura
 - "*Alura*" Amazon Lightsail: Making the Cloud Simple
 - "*Alura*" Networks part 1: concepts and practice
 - "*Alura*" HTTP: Understanding the Web Behind the Scenes
-- "*Alura*" Quality Assurance: plano de testes e gestão de bugs
+- "*Alura*" Quality Assurance: test plan and bug management
 
 ### 👩🏽‍💻 &nbsp; Working with
 
