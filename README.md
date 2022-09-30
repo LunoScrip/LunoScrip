@@ -20,6 +20,7 @@ GIT: https://github.com/LunoScrip/Certificados_Jornada_alura
 - "*Alura*" Networks part 1: concepts and practice
 - "*Alura*" HTTP: Understanding the Web Behind the Scenes
 - "*Alura*" Quality Assurance: test plan and bug management
+- "*Alura*" Git and Github: Control and Share Your Code
 
 
 
