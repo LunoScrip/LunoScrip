@@ -15,13 +15,14 @@ GIT: https://github.com/LunoScrip/Certificados_Jornada_alura
 - "*Alura*" HTML5 and CSS3 part 3: Working with forms and tables
 - "*Alura*" HTML5 and CSS3 part 4: Advancing CSS
 - "*Alura*" JavaScript: Supported Types, Variables, and Functions
+- "*Alura*" JavaScript: consuming and handling data from an API
 - "*Alura*" Php: Composer Dependencies, Autoload and Voucher Publishing
 - "*Alura*" Amazon Lightsail: Making the Cloud Simple
 - "*Alura*" Networks part 1: concepts and practice
 - "*Alura*" HTTP: Understanding the Web Behind the Scenes
 - "*Alura*" Quality Assurance: test plan and bug management
 - "*Alura*" Git and Github: Control and Share Your Code
-- "*Alura*" JavaScript: consuming and handling data from an API
+
 
 
 ### 👩🏽‍💻 &nbsp; Working with
