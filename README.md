@@ -21,7 +21,7 @@ GIT: https://github.com/LunoScrip/Certificados_Jornada_alura
 - "*Alura*" HTTP: Understanding the Web Behind the Scenes
 - "*Alura*" Quality Assurance: test plan and bug management
 - "*Alura*" Git and Github: Control and Share Your Code
-
+- "*Alura*" JavaScript: consuming and handling data from an API
 
 
 ### 👩🏽‍💻 &nbsp; Working with
