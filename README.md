@@ -17,6 +17,7 @@ GIT: https://github.com/LunoScrip/Certificados_Jornada_alura
 - "*Alura*" JavaScript: Supported Types, Variables, and Functions
 - "*Alura*" JavaScript: consuming and handling data from an API
 - "*Alura*" Php: Composer Dependencies, Autoload and Voucher Publishing
+- "*Alura*" Node.js: Rest API with Express and MongoDB
 - "*Alura*" Amazon Lightsail: Making the Cloud Simple
 - "*Alura*" Networks part 1: concepts and practice
 - "*Alura*" HTTP: Understanding the Web Behind the Scenes
