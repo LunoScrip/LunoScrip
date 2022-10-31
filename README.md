@@ -14,7 +14,7 @@ GIT: https://github.com/LunoScrip/Certificados_Jornada_alura
 - "*Alura*" HTML5 and CSS3 part 2: Positioning, Lists and Navigation
 - "*Alura*" HTML5 and CSS3 part 3: Working with forms and tables
 - "*Alura*" HTML5 and CSS3 part 4: Advancing CSS
-- "*Alura*" Arquitetura CSS: descomplicando os problemas
+- "*Alura*" CSS Architecture: Uncomplicating the Problems
 - "*Alura*" JavaScript: Supported Types, Variables, and Functions
 - "*Alura*" JavaScript: consuming and handling data from an API
 - "*Alura*" Php: Composer Dependencies, Autoload and Voucher Publishing
